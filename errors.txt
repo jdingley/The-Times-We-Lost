@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/onto_school_day_1.rpy", line 77: style property bacground is not known.
+    bacground None
+             ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Nov 14 15:19:48 2019
